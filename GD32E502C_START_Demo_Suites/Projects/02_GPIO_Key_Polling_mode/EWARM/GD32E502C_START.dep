@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>44189159</fileChecksum>
+    <configuration>
+        <name>GD32E502</name>
+        <outputs>
+            <file>$PROJ_DIR$\GD32E502\Obj\systick.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\GD\GD32E502\Include\system_gd32e502.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_cmp.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_usart.__cstat.et</file>
+            <file>$PROJ_DIR$\..\systick.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_rtc.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dbg.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dac.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_dac.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_can.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\GD\GD32E502\Include\gd32e502.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_cmp.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_rcu.o</file>
+            <file>$PROJ_DIR$\..\readme.txt</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_crc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_bkp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\GD\GD32E502\Source\system_gd32e502.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_adc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_syscfg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_misc.c</file>
+            <file>$PROJ_DIR$\..\main.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_can.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_cmp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_dac.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_dbg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_mfcom.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_timer.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_trigsel.c</file>
+            <file>$PROJ_DIR$\..\systick.c</file>
+            <file>$PROJ_DIR$\..\gd32e502_it.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_fwdgt.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_exti.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_pmu.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_dma.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_rcu.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_fmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_spi.c</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_syscfg.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_fmc.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_spi.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\main.o</file>
+            <file>$PROJ_DIR$\GD32E502\Exe\Project.out</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\startup_gd32e502.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\systick.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_timer.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_fmc.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_dma.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_adc.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_mfcom.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_rcu.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\system_gd32e502.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dbg.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_wwdgt.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dma.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\system_gd32e502.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_pmu.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_wwdgt.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_timer.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dma.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dac.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_bkp.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_mfcom.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_adc.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_mfcom.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dac.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_crc.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_pmu.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_fwdgt.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_spi.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_rcu.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_misc.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_trigsel.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_it.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_fwdgt.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_crc.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_pmu.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_cmp.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_syscfg.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502c_start.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_exti.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_gpio.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_gpio.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_i2c.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_fmc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_usart.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\systick.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\GD32E502C_START.pbd</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_gpio.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_timer.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\GD32E502\List\Project.map</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_rtc.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\config\linker\GD\GD32E502xC.icf</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_it.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_spi.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_usart.o</file>
+            <file>$PROJ_DIR$\..\..\..\Utilities\gd32e502c_start.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_exti.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dbg.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_can.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_i2c.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_dbg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\core_cm33.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_misc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_misc.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\mpu_armv8.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_wwdgt.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_crc.h</file>
+            <file>$PROJ_DIR$\..\gd32e502_it.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_i2c.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_adc.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_rtc.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_it.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_timer.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_rcu.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_can.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_exti.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_dma.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_bkp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_trigsel.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_syscfg.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\system_gd32e502.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\gd32e502_libopt.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_fwdgt.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\GD\GD32E502\Source\IAR\startup_gd32e502.s</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_bkp.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502c_start.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_cmp.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_misc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_wwdgt.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_trigsel.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_fwdgt.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_pmu.o</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_trigsel.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Include\gd32e502_fmc.h</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_can.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_syscfg.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_exti.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\Utilities\gd32e502c_start.c</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_mfcom.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_spi.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502c_start.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_usart.c</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_crc.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_wwdgt.c</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_adc.__cstat.et</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_usart.pbi</file>
+            <file>$PROJ_DIR$\GD32E502\Obj\gd32e502_bkp.pbi</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 45 101</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 167</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 123 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 157 11 114 1 117 144 135 76 142 141 9 68 95 116 143 132 121 119 65 69 87 50 115 74 48 80 123 140 126 131 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_bkp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 147</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 171</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 135 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69 74 11 1 65 143 50 80 142 141 87 115 48 116 132 121 144 117 114 135 9 157 68 76 95 119 140 126 131 123 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\GD\GD32E502\Source\system_gd32e502.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 139</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 83 143 1 140 131 88 142 141 113 120 151 116 132 121 119 126 123 133 86 130 81 144 65 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 169</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 126 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 143 68 11 9 95 116 144 117 114 135 157 76 1 142 141 65 69 87 50 115 74 48 80 126 121 119 140 131 123 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_syscfg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 138</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 159</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81 11 116 123 86 143 132 119 126 133 130 1 142 141 121 140 131 113 83 120 88 151 144 65 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 125</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 112</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 93</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 86 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65 143 50 11 132 80 69 74 116 87 115 48 1 142 141 144 117 114 135 9 157 68 76 95 86 121 119 140 126 131 123 113 133 83 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 150</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 120 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 65 115 1 87 48 142 141 144 69 143 50 74 80 116 132 121 119 117 114 135 9 157 68 76 95 120 140 126 131 123 113 133 83 86 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 152</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 160</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86 65 11 1 123 81 142 141 144 126 133 130 4 116 143 132 121 119 140 131 113 83 120 88 151 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_can.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 111</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 158</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 131 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 121 83 143 116 140 131 88 11 113 120 151 132 119 126 123 133 86 130 81 1 142 141 144 65 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_cmp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 149</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 2</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 48 141 87 142 115 1 65 69 143 50 74 80 116 132 121 144 117 114 135 9 157 68 76 95 119 140 126 131 123 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_dac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 114 157 143 119 132 117 144 135 76 116 121 9 68 95 1 142 141 65 69 87 50 115 74 48 80 140 126 131 123 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_dbg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 7</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 110</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 113 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 65 87 48 1 115 142 141 144 69 143 50 74 80 116 132 121 119 117 114 135 9 157 68 76 95 113 140 126 131 123 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_mfcom.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 163</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74 142 69 141 65 143 50 80 11 1 87 115 48 116 132 144 117 114 135 9 157 68 76 95 121 119 140 126 131 123 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_timer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 99</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74 69 65 143 50 80 11 1 87 115 48 142 141 144 117 114 135 9 157 68 76 95 116 132 121 119 140 126 131 123 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_trigsel.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 156</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 137</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 153</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 121 83 143 11 1 140 131 88 142 141 113 120 151 116 132 119 126 123 133 86 130 81 144 65 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\systick.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 0</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86 132 11 143 119 123 81 116 121 126 133 130 4 1 142 141 144 65 140 131 113 83 120 88 151 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\gd32e502_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 105</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 128</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 124 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86 11 1 65 123 81 142 141 144 126 133 130 4 116 143 132 121 119 140 131 113 83 120 88 151 124 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_fwdgt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 154</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 145</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 83 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 68 11 143 119 132 9 95 116 121 117 114 144 135 157 76 1 142 141 65 69 87 50 115 74 48 80 83 140 126 131 123 113 133 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 91</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 98</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 115 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120 11 116 113 151 143 132 121 140 131 83 88 1 142 141 119 126 123 133 86 130 81 115 144 65 69 117 114 135 87 9 50 157 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 109</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 161</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 133 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 1 86 123 81 142 141 144 126 133 130 116 143 132 121 119 140 131 113 83 120 88 151 65 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_pmu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 155</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 143 130 119 126 132 133 116 121 123 86 81 1 142 141 144 140 131 113 83 120 88 151 74 65 69 117 114 135 87 9 50 157 115 68 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 134</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80 5 136 79</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 143 48 132 87 79 115 116 119 65 69 50 74 80 5 1 142 141 121 117 114 144 135 9 157 68 76 95 140 126 131 123 113 133 83 86 120 130 88 81 151 136</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 127</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 6</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69 1 74 65 143 50 80 11 142 141 144 87 115 48 116 132 121 119 117 114 135 9 157 68 76 95 140 126 131 123 113 133 83 86 120 130 88 81 151</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_rcu.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 13</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 130 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120 1 113 151 11 142 141 121 140 143 131 83 88 116 132 119 126 123 133 86 130 81 144 65 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_fmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 157 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 131 140 88 1 121 143 83 11 142 141 113 120 151 116 132 119 126 123 133 86 130 81 157 144 65 69 117 114 135 87 9 50 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 164</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132 143 119 133 126 130 11 116 123 86 81 1 142 141 121 140 131 113 83 120 88 151 76 144 65 69 117 114 135 87 9 50 157 115 68 74 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\GD32E502\Exe\Project.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 104 52 147 10 12 73 8 7 64 109 49 154 91 125 105 71 118 155 13 127 43 138 63 156 107 62 89 44 46 55 47 59 103 100 51</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\CMSIS\GD\GD32E502\Source\IAR\startup_gd32e502.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Utilities\gd32e502c_start.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 148</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 165</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 83 142 143 141 144 140 131 88 1 113 120 151 116 132 121 119 126 123 133 86 130 81 108 65 69 117 114 135 87 9 50 157 115 68 74 76 48 95 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 107</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 170</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 151 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11 141 86 142 123 81 1 119 126 133 130 116 143 132 121 140 131 113 83 120 88 151 95 144 65 69 117 114 135 87 9 50 157 115 68 74 76 48 80</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\GD32E502_Firmware_Library\GD32E502_standard_peripheral\Source\gd32e502_wwdgt.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 122</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 151 11 116 143 119 144 65 69 117 141 132 114 140 121 1 142 126 135 131 87 123 9 113 50 133 157 83 115 86 68 120 74 130 76 88 48 81 95 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142 11 80 143 50 141 144 69 74 1 65 87 115 48 116 132 121 119 117 114 135 9 157 68 76 95 151 140 126 131 123 113 133 83 86 120 130 88 81</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
